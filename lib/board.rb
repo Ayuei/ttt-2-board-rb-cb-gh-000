@@ -1,4 +1,4 @@
 # Define the variable board below.
-board = [[" ", " ", " "]*3]
+board = [" "]*9
 
 puts(board)
